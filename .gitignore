@@ -359,5 +359,13 @@ MigrationBackup/
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
 
+/Properties/PublishProfiles
+/.vs/BackendLevel/CopilotIndices/17.14.734.62261
+/.vs/BackendLevel/config
+/.vs/BackendLevel/DesignTimeBuild
+/.vs/BackendLevel/FileContentIndex
+/.vs
+/appsettings.json
+/appsettings.Development.json
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
